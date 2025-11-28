@@ -22,7 +22,7 @@ include:
   - board: glove80_lh
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: glove80_rh_with_studio
+    artifact-name: glove80_lh_with_studio
   - board: glove80_rh
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
